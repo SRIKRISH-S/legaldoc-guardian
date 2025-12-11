@@ -1,0 +1,13 @@
+{
+  "label": "CLEAN",
+  "score": 0.12,
+  "fields": {
+    "name": "SRIKRISHNA",
+    "account": "1234567890",
+    "amounts": [
+      20000
+    ],
+    "raw_text": "Name: SRIKRISHNA\nAccount: 1234567890\nAmount: Rs 20,000\nDate: 2025-12-01\nSignature:"
+  },
+  "evidence": []
+}

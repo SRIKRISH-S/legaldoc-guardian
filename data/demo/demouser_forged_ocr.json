@@ -1,0 +1,15 @@
+{
+  "text_lines": [
+    "Name: DemoUser",
+    "Account: 1234567890",
+    "Amount: Rs 20,000",
+    "Amount: Rs 200,000",
+    "Date: 2025-12-01",
+    "Signature:"
+  ],
+  "amounts": [
+    20000,
+    200000
+  ],
+  "forged": true
+}
