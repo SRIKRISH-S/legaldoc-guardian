@@ -1,0 +1,9 @@
+streamlit
+pillow
+pytesseract
+opencv-python-headless
+numpy
+scikit-learn
+joblib
+# paddleocr and paddlepaddle left out here because they can fail on cloud builds.
+# If you want local full pipeline, install paddleocr and paddlepaddle locally in your venv.
